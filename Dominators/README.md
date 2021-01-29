@@ -1,7 +1,7 @@
 # ScanIt
 Who keeps antivirus nowadays? Go on. Noone wants to slow down his PC AF for some unneccesory antivirus. But we sometimes needs to scan some file for virus. So here is an solution. ScanIt Scans a file using VirusTotal's online file scanner.
 
-# Team - Dominators
+# Team - Dominators (1st Year, B.Tech CSE)
 - [Shivam Saini](https://github.com/shivamsn97) - 202004101 **Team Leader**
 - [Suraj Kumar](https://github.com/surajkr97) - 202004067
 - [Arpit Kumar](https://github.com/arpitkr97) - 202004071
