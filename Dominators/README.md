@@ -2,9 +2,10 @@
 Who keeps antivirus nowadays? Go on. Noone wants to slow down his PC AF for some unneccesory antivirus. But we sometimes needs to scan some file for virus. So here is an solution. ScanIt Scans a file using VirusTotal's online file scanner.
 
 # Team - Dominators
-- [Shivam Saini](https://github.com/shivamsn97)
-- [Suraj Kumar](https://github.com/surajkr97)
-- [Arpit Kumar](https://github.com/arpitkr97)
+- [Shivam Saini](https://github.com/shivamsn97) - 202004101 **Team Leader**
+- [Suraj Kumar](https://github.com/surajkr97) - 202004067
+- [Arpit Kumar](https://github.com/arpitkr97) - 202004071
+- [Harshit Kumar](https://github.com/harshitkr97) - 202004068
 
 # Why ScanIt?
 A lot of people, including me, prefers not to keep Antivirus in their PC. But sometimes we really need to scan a file for virus. At such times we use online virus scanners like VirusTotal.com. ScanIt has bring down this functionality to your cli. You can even add it to your context menu using install.py as shown in image below, and guess what? It doesn't slows down your system by even a 0.01 percent. So its time to goodbye AntiViruses and say hello to online file scan services.
